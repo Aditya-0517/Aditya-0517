@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
 <h4 align="center">A passionate learner crafting Full Stack and DevOps projects</h4>
 
+## 💫 About Me
+
 - 👨‍💻 I am a **Computer Science Student** 
 
-- 🔭 I’m currently working on **Multi-agent system using Reinforcement Learning for Network Intrusion Detection**
+- 🔭 I’m currently working on **Multi-Agent System using Reinforcement Learning for Network Intrusion Detection**
 
 - 🌱 I’m currently learning **Terraform, AWS Lambda**
 
@@ -13,14 +15,14 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1phy0_ZgOfGAwz3BzjGZCPPdBevyaDDRQ/view?usp=sharing">Resume</a>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me 🤝 
 <p align="left">
 <a href="https://linkedin.com/in/aditya-yadav-604594220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-yadav-604594220" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Technologies ⚡
 <p align="left">
-    <strong>Programming languages:  </strong>
+    <strong> Language:  </strong>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>  
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -37,8 +39,8 @@
 <p align="left">
     <strong>Backend Development:  </strong>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express" width="90" height="45"/></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask" width="90" height="45"/></a>
     
     
 </p>
