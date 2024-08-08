@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adityadav@fuji.waseda.jp**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1phy0_ZgOfGAwz3BzjGZCPPdBevyaDDRQ/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hS_9D0MnJImzoNd7EmEwbup99RdBkjn9/view?usp=sharing">Resume</a>
 
 ## Connect with me 🤝 
 <p align="left">
